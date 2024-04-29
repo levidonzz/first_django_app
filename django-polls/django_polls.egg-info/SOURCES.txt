@@ -8,7 +8,6 @@ django_polls/__init__.py
 django_polls/admin.py
 django_polls/apps.py
 django_polls/models.py
-django_polls/test.py
 django_polls/tests.py
 django_polls/urls.py
 django_polls/views.py
